@@ -1,4 +1,2 @@
 # grp3se
-![menu image] (
-        grp3se/menu.png
-      )
+![home image] (https://github.com/ptrRosh07/grp3se/blob/master/home.png)
