@@ -8,5 +8,5 @@
 ![home image](https://github.com/ptrRosh07/grp3se/blob/master/timer.png)
 ![home image](https://github.com/ptrRosh07/grp3se/blob/master/recommender.png)
 ![home image](https://github.com/ptrRosh07/grp3se/blob/master/collab.png)
-![home image](https://github.com/ptrRosh07/grp3se/blob/master/create collab.png)
-![home image](https://github.com/ptrRosh07/grp3se/blob/master/monitor collab.png)
+![home image](https://github.com/ptrRosh07/grp3se/blob/master/create_collab.png)
+![home image](https://github.com/ptrRosh07/grp3se/blob/master/monitor_collab.png)
