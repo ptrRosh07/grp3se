@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/notesBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Notes" />
+        <item
+            android:id="@+id/todoBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="To-Do" />
+        <item
+            android:id="@+id/reminderBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Reminder" />
+        <item
+            android:id="@+id/plannerBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Planner" />
+        <item
+            android:id="@+id/timerBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Timer" />
+        <item
+            android:id="@+id/habitBtn"
+            android:icon="@drawable/side_nav_bar"
+            android:title="Habit Recommender" />
+        <item
+            android:id="@+id/collabBtn"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Organizer Collaborative" />
+    </group>
+
+</menu>
